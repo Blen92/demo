@@ -1,8 +1,8 @@
 {
   "employees": [
     { "id": 1, "first-name": "Blen", "last-name": "Ali", "age": "22", "gender": "F", "heigt": "1.65m" },
-    { "id": 2, "first-name": "Saron", "last-name": "Tamirat", "age": "15", "gender": "F", "heigt": "1.65m" },
-    { "id": 3, "first-name": "Shewit", "last-name": "Tamirat", "age": "52", "gender": "M", "heigt": "1.65m" }
+    { "id": 2, "first-name": "Saron", "last-name": "Tamirat", "age": "15", "gender": "F", "heigt": "1.60m" },
+    { "id": 3, "first-name": "Shewit", "last-name": "G/hiwot", "age": "52", "gender": "M", "heigt": "1.58m" }
   ]
 }
 
