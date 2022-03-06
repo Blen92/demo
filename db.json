@@ -3,7 +3,7 @@
     { "id": 1, "firstName": "Blen", "lastName": "Ali", "age": "22", "gender": "F", "heigt": "1.65m" },
     { "id": 2, "firstName": "Saron", "lastName": "Tamirat", "age": "15", "gender": "F", "heigt": "1.60m" },
     { "id": 3, "firstName": "Shewit", "lastName": "G/hiwot", "age": "24", "gender": "F", "heigt": "1.58m" },
-    { "id": 4, "firstName": "Abebe", "lastName": "Kebede", "age": "52", "gender": "M", "heigt": "1.70m" },
+    { "id": 4, "firstName": "Abebe", "lastName": "Kebede", "age": "52", "gender": "M", "heigt": "1.70m" }
   ]
 }
 
